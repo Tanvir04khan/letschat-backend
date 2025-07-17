@@ -1,9 +1,3 @@
-# Node.js + TypeScript Boilerplate 🚀
-
-A minimal **Node.js + TypeScript** setup with **debugging** and **concurrent execution**.
-
----
-
 ## 📦 Features
 
 - ✅ **TypeScript** for type safety
